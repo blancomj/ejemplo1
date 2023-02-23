@@ -1,10 +1,5 @@
 este archivo es una prueba para actualizar ramas
 
-
-
-
-
-
 DomainKeys Identified Mail (DKIM) is a method of email authentication that helps 
 prevent spammers and other malicious parties from impersonating a legitimate domain.
 
